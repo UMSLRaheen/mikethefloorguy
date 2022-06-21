@@ -2,7 +2,7 @@
    session_start();
 
 
-    include('includes/connection.php');
+    
     include('includes/functions.php');
     include('includes/errorreporting.php');
 
